@@ -1,7 +1,7 @@
 const express = require("express");
 const cors = require("cors");
 const en = require('./en.json')
-const pl = require('./data.json')
+const pl = require('./pl.json')
 const app = express();
 
 app.use(express.static("public"));
