@@ -1,0 +1,58 @@
+[
+    {
+      "_id": "62aa26846dd5413439d09a51",
+      "picture": "https://source.unsplash.com/450x350/1",
+      "category": "wristband",
+      "name": "Color-Changing Chameleon Pendant",
+      "price": 80
+    },
+    {
+      "_id": "62aa2684f61ddcedc59744cc",
+      "picture": "https://source.unsplash.com/450x350/2",
+      "category": "bracelet",
+      "name": "Charms Iridescent Blue Ocean",
+      "price": 10
+    },
+    {
+      "_id": "62aa2684decfe7b0ab79bd85",
+      "picture": "https://source.unsplash.com/450x350/3",
+      "category": "wristband",
+      "name": "Clip blue globe",
+      "price": 70
+    },
+    {
+      "_id": "62aa268454b3d35cfbf6d838",
+      "picture": "https://source.unsplash.com/450x350",
+      "category": "ring",
+      "name": "Murano Sea Turtle pendant",
+      "price": 20
+    },
+    {
+      "_id": "62aa2684eeb0c15c803deb2b",
+      "picture": "https://source.unsplash.com/450x350",
+      "category": "wristband",
+      "name": "Sailboat Suspension",
+      "price": 60
+    },
+    {
+      "_id": "62aa2684de9285f275224d0e",
+      "picture": "https://source.unsplash.com/450x350",
+      "category": "bracelet",
+      "name": "Travel Charms rainbow sky",
+      "price": 80
+    },
+    {
+      "_id": "62aa2684d1c4905e81102f9f",
+      "picture": "https://source.unsplash.com/450x350",
+      "category": "ring",
+      "name": "Palm and coconut pendant",
+      "price": 10
+    },
+    {
+      "_id": "62aa268467775fd282416e6b",
+      "picture": "https://source.unsplash.com/450x350",
+      "category": "wristband",
+      "name": "Charms strawberry with seeds",
+      "price": 90
+    }
+  ]

@@ -1,57 +1,57 @@
 [
   {
     "_id": "62aa26846dd5413439d09a51",
-    "picture": "https://source.unsplash.com/450x350",
-    "category": "wristband",
+    "picture": "https://source.unsplash.com/450x350/1",
+    "category": "opaska na rękę",
     "name": "Zawieszka Kameleon Zmieniający Kolory",
     "price": 80
   },
   {
     "_id": "62aa2684f61ddcedc59744cc",
-    "picture": "https://source.unsplash.com/450x350",
-    "category": "bracelet",
+    "picture": "https://source.unsplash.com/450x350/2",
+    "category": "bransoletka",
     "name": "Charms Opalizujący Błękit Oceanu",
     "price": 10
   },
   {
     "_id": "62aa2684decfe7b0ab79bd85",
-    "picture": "https://source.unsplash.com/450x350",
-    "category": "wristband",
+    "picture": "https://source.unsplash.com/450x350/3",
+    "category": "opaska na rękę",
     "name": "Klips Błękitny globus",
     "price": 70
   },
   {
     "_id": "62aa268454b3d35cfbf6d838",
     "picture": "https://source.unsplash.com/450x350",
-    "category": "ring",
+    "category": "pierścień",
     "name": "Zawieszka Żółw morski Murano",
     "price": 20
   },
   {
     "_id": "62aa2684eeb0c15c803deb2b",
     "picture": "https://source.unsplash.com/450x350",
-    "category": "wristband",
+    "category": "opaska na rękę",
     "name": "Zawieszka Żaglówka",
     "price": 60
   },
   {
     "_id": "62aa2684de9285f275224d0e",
     "picture": "https://source.unsplash.com/450x350",
-    "category": "bracelet",
+    "category": "bransoletka",
     "name": "Charms podróżny Tęczowe Niebo",
     "price": 80
   },
   {
     "_id": "62aa2684d1c4905e81102f9f",
     "picture": "https://source.unsplash.com/450x350",
-    "category": "ring",
+    "category": "pierścień",
     "name": "Zawieszka Palma i kokosy",
     "price": 10
   },
   {
     "_id": "62aa268467775fd282416e6b",
     "picture": "https://source.unsplash.com/450x350",
-    "category": "wristband",
+    "category": "opaska na rękę",
     "name": "Charms Truskawka z Nasionkami",
     "price": 90
   }
